@@ -1,5 +1,3 @@
-Reciever And L2C module
-
 # HARDPOINT
 
 Hardpoint is een initiatief van Mustafa Maalin en Thijs Erven om een Call of Duty gamemode te integreren in een airsoft game.
